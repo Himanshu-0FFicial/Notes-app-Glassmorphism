@@ -19,20 +19,9 @@ A small, responsive notes app with a glassmorphism interface. It uses plain HTML
 
 Notes are stored in the browser where you use the app. They are not automatically uploaded to GitHub or shared between browsers.
 
-## Push to GitHub
 
-Create an empty repository on GitHub, then open the extracted project folder in a terminal and run:
 
-```bash
-git init
-git add .
-git commit -m "Add Glass Notes website"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-git push -u origin main
-```
 
-Replace the remote URL with your repository's URL. If Git asks you to sign in, complete the prompt in your terminal or browser.
 
 ## Files
 
